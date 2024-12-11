@@ -47,8 +47,8 @@ Currently, I’m exploring the practical applications of finance in real-world s
 
 I’m always eager to collaborate on innovative financial projects and exchange ideas. Let’s connect and grow together:
 
-- **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/aurokrishnaa/)
-- **GitHub:** [Your GitHub Profile](https://github.com/Aurokrishnaa)
+- **LinkedIn:** [My LinkedIn Profile URL](https://www.linkedin.com/in/aurokrishnaa/)
+- **GitHub:** [My GitHub Profile](https://github.com/Aurokrishnaa)
 - **Email:** aurokris@buffalo.edu
 
 ---
