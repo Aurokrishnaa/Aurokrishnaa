@@ -6,9 +6,9 @@ I am a passionate and driven Master of Science in Finance (MSF) student at **SUN
 
 ---
 
-Education & Skills
+## Education & Skills
 
-Academic Background
+### Academic Background
 
 - **Master of Science in Finance** | University at Buffalo, SUNY (2024-Present)
 - **Master of Business Administration in Finance**
