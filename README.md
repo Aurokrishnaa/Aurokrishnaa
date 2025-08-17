@@ -1,4 +1,4 @@
-# Aurokrishnaa Ravindran Lakshmi
+# Aurokrishnaa R L
 
 **Finance & Quant Analytics** — MS Finance (Quant), University at Buffalo ’25 • MBA (Finance) '22
 
