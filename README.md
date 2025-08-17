@@ -149,9 +149,9 @@ Python · Excel (advanced/VBA) · R · SQL · Power BI (DAX/Power Query) · Stre
 **Primary**
 
 * Website: [https://aurokrishnaa.me](https://aurokrishnaa.me)
-* Résumé (PDF): [https://aurokrishnaa.me/resume.pdf](https://aurokrishnaa.me/resume.pdf)
+* Résumé (PDF): [https://aurokrishnaa.me/resume.html]([https://aurokrishnaa.me/resume.pdf](https://aurokrishnaa.me/resume.html))
 * LinkedIn: [https://www.linkedin.com/in/aurokrishnaa/](https://www.linkedin.com/in/aurokrishnaa/)
-* Email: [aurokris@buffalo.edu](mailto:aurokris@buffalo.edu)
+* Email: [aurokrishnaa2000@gmail.com](mailto:aurokrishnaa2000@gmail.com)
 
 **GitHub & Apps**
 
@@ -165,7 +165,7 @@ Python · Excel (advanced/VBA) · R · SQL · Power BI (DAX/Power Query) · Stre
 ## Education
 
 * **MS Finance (Quantitative Finance)** — University at Buffalo, SUNY (’25)
-* **MBA (Finance)** — Anna University
+* **MBA (Finance)** — Anna University ('22)
 
 ---
 
