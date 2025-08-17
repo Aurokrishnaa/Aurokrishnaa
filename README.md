@@ -15,7 +15,7 @@ Python · Excel (advanced/VBA) · R · SQL · Power BI (DAX/Power Query) · Stre
 
 ---
 
-## Skills (comprehensive)
+## Skills
 
 **Programming & Data**
 
@@ -46,7 +46,7 @@ Python · Excel (advanced/VBA) · R · SQL · Power BI (DAX/Power Query) · Stre
 
 ---
 
-## Projects — one‑liners
+## Projects — one liners
 
 * **Credit Risk Intelligence** — portfolio stress tests, explainable scores, CECL/IFRS aggregates, pricing, executive PDF.
   Repo: [https://github.com/Aurokrishnaa/credit-risk-intel](https://github.com/Aurokrishnaa/credit-risk-intel)
@@ -57,7 +57,7 @@ Python · Excel (advanced/VBA) · R · SQL · Power BI (DAX/Power Query) · Stre
 
 ---
 
-## Quick Links (organized)
+## Quick Links 
 
 **Primary**
 
@@ -102,7 +102,7 @@ Python · Excel (advanced/VBA) · R · SQL · Power BI (DAX/Power Query) · Stre
 
 ---
 
-## Skills (comprehensive)
+## Skills
 
 **Programming & Data**
 
