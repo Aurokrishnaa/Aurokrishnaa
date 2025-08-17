@@ -1,66 +1,67 @@
-# Hi there, I'm Aurokrishnaa Ravindran Lakshmi! 👋
+# Aurokrishnaa Ravindran Lakshmi
 
-## About Me
+**Finance & Quant Analytics** — MS Finance (Quant), University at Buffalo ’25 • MBA (Finance)
 
-I am a passionate and driven Master of Science in Finance (MSF) student at **SUNY Buffalo**, with a strong foundation in finance and investments. With an MBA in Finance and three years of teaching experience, I have honed my ability to break down complex financial concepts and guide others toward informed decision-making. My curiosity and dedication to continuous learning are the cornerstones of my journey.
+Python · Excel (advanced) · R · SQL · Power BI · Streamlit · LSEG Yield Book · NumPy/Pandas · Matplotlib · scikit-learn · Bloomberg Market Concepts (BMC)
 
----
-
-## Education & Skills
-
-### Academic Background
-
-- **Master of Science in Finance** | University at Buffalo, SUNY (2024-Present)
-- **Master of Business Administration in Finance**
-
-### Technical Proficiencies
-
-- **Financial Modeling:** Excel, R, Python
-- **Analytics & Tools:** Bloomberg Terminal, Yieldbook Add-in for Excel
-- **Investment Strategies:** Portfolio Theory, Risk Management, Asset Allocation
-- **Programming:** Python, R
+<p>
+  <a href="https://aurokrishnaa.me">Website</a> ·
+  <a href="https://www.auronomics.com">Blog</a> ·
+  <a href="https://black-scholes-aurokrishnaa.streamlit.app/">Black‑Scholes App</a> ·
+  <a href="https://github.com/Aurokrishnaa">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/aurokrishnaa/">LinkedIn</a> ·
+  <a href="mailto:aurokris@buffalo.edu">Email</a> ·
+  <a href="https://aurokrishnaa.me/resume.pdf">Résumé (PDF)</a>
+</p>
 
 ---
 
-## Projects & Highlights
+## Highlights
 
-- **Portfolio Optimization:** Developed a Python-based asset allocation model optimizing downside risk for various return scenarios.
-- **Fixed Income Valuation:** Conducted scenario analysis using Yieldbook to model portfolio impacts under interest rate changes.
-- **Tidyedgar Project:** Used the `Tidyedgar` package in R to analyze and visualize SEC filings for actionable insights.
-- **Fixed Income Research:** Managed a large-scale fixed-income instruments portfolio (swaps) using LSEG Yieldbook and implemented effective hedging strategies.
-- **Quantitative Analysis in Finance:** Applied advanced mathematical and statistical methods to enhance portfolio performance and minimize risks.
-
----
-
-## What I’m Working On
-
-Currently, I’m exploring the practical applications of finance in real-world scenarios through:
-
-- Developing efficient portfolio management models.
-- Enhancing my skills in financial derivatives and risk management.
-- Engaging in supervised research projects focusing on quantitative methods for fixed-income securities analysis.
-- Expanding my expertise in Python coding and finance-related programming challenges.
+* Credit Risk (PD/LGD/EAD) · CECL/IFRS · Stress Testing · Pricing & Spreads
+* Derivatives: Black‑Scholes, Greeks, scenario/P\&L · Hedging demos
+* Fixed Income: duration/convexity, key‑rate DV01, curve shocks (Yield Book)
+* Explainable analytics · Scenario engines · Executive‑ready reporting
 
 ---
 
-## Connect with Me
+## Projects — one‑liners
 
-I’m always eager to collaborate on innovative financial projects and exchange ideas. Let’s connect and grow together:
-
-- **LinkedIn:** [My LinkedIn Profile URL](https://www.linkedin.com/in/aurokrishnaa/)
-- **GitHub:** [My GitHub Profile](https://github.com/Aurokrishnaa)
-- **Email:** aurokris@buffalo.edu
-
----
-
-## Fun Facts About Me
-
-- I enjoy teaching and mentoring students on finance and career opportunities.
-- I’m a continuous learner, currently diving deeper into quantitative finance and its applications.
-- I am passionate about coding, especially in Python, and love exploring new libraries and tools.
-- Traveling and exploring new cultures fuel my curiosity and broaden my perspective.
+* **Credit Risk Intelligence** — portfolio stress tests, explainable scores, CECL/IFRS aggregates, pricing, executive PDF.
+  Repo: [https://github.com/Aurokrishnaa/credit-risk-intel](https://github.com/Aurokrishnaa/credit-risk-intel)
+* **Black‑Scholes Dashboard (Streamlit)** — valuation, Greeks, scenarios, P\&L; shareable web app.
+  Live: [https://black-scholes-aurokrishnaa.streamlit.app/](https://black-scholes-aurokrishnaa.streamlit.app/)
+* **Fixed‑Income Analytics (Yield Book)** — curve shifts, KR‑DV01 ladders, simple hedges.
+* **Earnings‑Call NLP** — tone/sentiment signals; document Q\&A prototype.
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any ideas, questions, or collaboration opportunities. 🚀
+## Skills — fast view
 
+* **Programming & Data:** Python, R, SQL · feature engineering, backtesting, Monte Carlo
+* **Analytics & BI:** Excel (advanced/VBA), Power BI (DAX/Power Query), Streamlit apps
+* **Risk & FI:** Yield Book, duration/convexity, key‑rate DV01, stress frameworks, CECL/IFRS
+
+---
+
+## Education
+
+* **MS Finance (Quantitative Finance)** — University at Buffalo, SUNY (’25)
+* **MBA (Finance)** — Anna University
+
+---
+
+## Links
+
+Website: [https://aurokrishnaa.me](https://aurokrishnaa.me)
+Blog: [https://www.auronomics.com](https://www.auronomics.com)
+LinkedIn: [https://www.linkedin.com/in/aurokrishnaa/](https://www.linkedin.com/in/aurokrishnaa/)
+GitHub: [https://github.com/Aurokrishnaa](https://github.com/Aurokrishnaa)
+Email: [aurokris@buffalo.edu](mailto:aurokris@buffalo.edu)
+Résumé (PDF): [https://aurokrishnaa.me/resume.pdf](https://aurokrishnaa.me/resume.pdf)
+
+---
+
+## Note
+
+Exploring **Finance / Financial Analyst / Analytical** roles where rigorous modeling meets clear business decisions.
