@@ -1,6 +1,6 @@
 # Aurokrishnaa Ravindran Lakshmi
 
-**Finance & Quant Analytics** — MS Finance (Quant), University at Buffalo ’25 • MBA (Finance)
+**Finance & Quant Analytics** — MS Finance (Quant), University at Buffalo ’25 • MBA (Finance) '22
 
 Python · Excel (advanced/VBA) · R · SQL · Power BI (DAX/Power Query) · Streamlit · LSEG Yield Book · NumPy · Pandas · Matplotlib · scikit‑learn · Git/GitHub · Jupyter · Bloomberg Market Concepts (BMC)
 
